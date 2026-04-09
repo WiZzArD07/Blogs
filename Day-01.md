@@ -8,7 +8,7 @@
 - It helps reduce manual work and human errors
 
 ## 🔹 Why DevOps is Important
-- Faster software delivery 🚀
+- Faster software delivery 
 - Better collaboration between teams
 - Fewer bugs and failures in production
 - Quick recovery from issues
