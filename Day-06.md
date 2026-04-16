@@ -1,4 +1,4 @@
-# Day 2 - SDLC vs DevOps
+# Day 6 - SDLC vs DevOps
 
 ## What I Learned
 - SDLC stands for Software Development Life Cycle
