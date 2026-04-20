@@ -39,3 +39,24 @@ docker pull nginx
 docker images
 docker run -d -p 8080:80 nginx
 docker ps
+```
+### Benefits of Docker
+ - Consistent environments
+ - Faster deployment
+ - Easy scaling
+ - Isolation of applications
+ - Efficient resource usage
+
+### Real Use Case
+A developer builds an application on their local machine. Without Docker, it may fail on another system due to missing dependencies.
+
+With Docker:
+
+ - The application is packaged into an image
+ - The same image runs on any system without issues
+
+### Summary
+Docker is a powerful containerization tool that helps developers package applications with dependencies, ensuring consistency and faster deployment across environments.
+
+### My Learning Reflection
+Today I learned the basics of Docker and how containers differ from virtual machines. I will explore Docker commands and Dockerfile in the next steps.
