@@ -1,4 +1,4 @@
-# Day 6 - Dockerfile
+# Day 10 - Dockerfile
 
 ## What I Learned
 - A Dockerfile is a script used to create Docker images
