@@ -1,4 +1,4 @@
-# Machine Learning Techniques (MLT) – Complete Summary Notes
+# Machine Learning Techniques (MLT)
 
 ---
 
