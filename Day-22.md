@@ -13,7 +13,7 @@
 - These virtual machines are called EC2 instances
 - EC2 allows developers to deploy applications without managing physical servers
 
-Amazon EC2 provides scalable virtual servers that help users deploy applications quickly without hardware limitations. :contentReference[oaicite:0]{index=0}
+Amazon EC2 provides scalable virtual servers that help users deploy applications quickly without hardware limitations.
 
 ## Why EC2 is Important
 - No need to purchase physical servers
@@ -60,7 +60,7 @@ Amazon EC2 provides scalable virtual servers that help users deploy applications
 - Monitoring with CloudWatch
 - Multiple pricing options
 
-EC2 supports features like auto scaling, monitoring, and flexible pricing for cloud applications. :contentReference[oaicite:1]{index=1}
+EC2 supports features like auto scaling, monitoring, and flexible pricing for cloud applications.
 
 ## Common Use Cases
 - Hosting web applications

@@ -10,12 +10,12 @@
 ## What is AWS
 - Amazon Web Services (AWS) is a cloud platform that provides on-demand IT resources over the internet
 - It allows users to access servers, storage, and databases without owning hardware
-- AWS provides more than 200 services globally for building applications :contentReference[oaicite:0]{index=0}  
+- AWS provides more than 200 services globally for building applications. 
 
 ## What is Cloud Computing
 - Cloud computing means delivering IT resources over the internet
 - Users can access resources anytime without managing infrastructure
-- It uses a pay-as-you-go model where you pay only for what you use :contentReference[oaicite:1]{index=1}  
+- It uses a pay-as-you-go model where you pay only for what you use.
 
 ## Why AWS is Used
 - No need to manage physical servers
@@ -38,8 +38,7 @@
 - Provides ready-to-use applications
 - Example: Gmail, AWS tools
 
-AWS provides a mix of IaaS, PaaS, and SaaS services :contentReference[oaicite:2]{index=2}  
-
+AWS provides a mix of IaaS, PaaS, and SaaS services.
 ## Core AWS Services
 
 ### EC2 (Elastic Compute Cloud)

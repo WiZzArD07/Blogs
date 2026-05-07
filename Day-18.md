@@ -28,7 +28,7 @@
 - Adds or removes nodes in the cluster
 - Helps when cluster runs out of resources
 
-Kubernetes supports all three types of scaling :contentReference[oaicite:0]{index=0}
+Kubernetes supports all three types of scaling
 
 ## Horizontal Pod Autoscaler (HPA)
 - Automatically adjusts the number of Pods
@@ -41,7 +41,7 @@ Kubernetes supports all three types of scaling :contentReference[oaicite:0]{inde
 - Increases Pods if load is high
 - Decreases Pods if load is low
 
-HPA dynamically scales Pods based on metrics to maintain performance :contentReference[oaicite:1]{index=1}
+HPA dynamically scales Pods based on metrics to maintain performance
 
 ## Example Command (Manual Scaling)
 ```bash

@@ -12,7 +12,7 @@
 - It includes stages like build, test, and deploy
 - Each stage runs automatically after a code change
 
-CI/CD pipelines automate build, testing, and deployment processes, making delivery faster and more reliable :contentReference[oaicite:0]{index=0}
+CI/CD pipelines automate build, testing, and deployment processes, making delivery faster and more reliable.
 
 ## Pipeline Flow (Step by Step)
 1. Developer writes code

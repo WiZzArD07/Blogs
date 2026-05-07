@@ -9,7 +9,7 @@
 
 ## What is GitHub Actions
 - GitHub Actions is a CI/CD platform that automates workflows directly inside a repository
-- It allows developers to build, test, and deploy code automatically :contentReference[oaicite:0]{index=0}
+- It allows developers to build, test, and deploy code automatically
 - Workflows are stored in `.github/workflows/` directory
 - It eliminates the need for external CI/CD tools
 

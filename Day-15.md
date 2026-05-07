@@ -10,13 +10,13 @@
 ## What is a Kubernetes Service
 - A Service is an abstraction that defines a logical set of Pods and a way to access them
 - It provides a stable IP address and DNS name
-- Even if Pods are created or destroyed, the Service remains constant :contentReference[oaicite:0]{index=0}
+- Even if Pods are created or destroyed, the Service remains constant
 
 ## Why Services are Needed
 - Pods are temporary and their IP addresses change frequently
 - Direct communication with Pods is unreliable
 - Services provide a stable endpoint for accessing Pods
-- They simplify communication between application components :contentReference[oaicite:1]{index=1}
+- They simplify communication between application components 
 
 ## Key Features of Services
 - Stable IP address and DNS name
@@ -44,8 +44,7 @@
 - Service selects Pods using labels
 - Traffic is routed to one of the matching Pods
 - Load balancing is automatically handled by Kubernetes
-- Clients communicate with the Service instead of individual Pods :contentReference[oaicite:2]{index=2}
-
+- Clients communicate with the Service instead of individual Pods
 ## Basic Service YAML Example
 ```yaml
 apiVersion: v1
