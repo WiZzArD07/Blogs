@@ -12,7 +12,7 @@
 - It allows administrators to create users, groups, roles, and policies
 - IAM ensures only authorized users and services can access resources
 
-AWS IAM securely manages access to AWS services and resources using authentication and authorization mechanisms. :contentReference[oaicite:0]{index=0}
+AWS IAM securely manages access to AWS services and resources using authentication and authorization mechanisms.
 
 ## Why IAM is Important
 - Prevents unauthorized access
@@ -39,7 +39,7 @@ AWS IAM securely manages access to AWS services and resources using authenticati
 - JSON document defining permissions
 - Specifies allowed or denied actions
 
-IAM policies define what actions users, groups, or roles can perform on AWS resources. :contentReference[oaicite:1]{index=1}
+IAM policies define what actions users, groups, or roles can perform on AWS resources.
 
 ## Types of IAM Policies
 
