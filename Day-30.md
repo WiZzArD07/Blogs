@@ -12,7 +12,7 @@
 - It reduces manual intervention and human errors
 - DevOps teams use automation for faster and reliable software delivery
 
-Automation is one of the core practices in DevOps and helps streamline development and operations workflows. :contentReference[oaicite:0]{index=0}
+Automation is one of the core practices in DevOps and helps streamline development and operations workflows. 
 
 ## Why Automation is Important
 - Saves time
@@ -21,7 +21,7 @@ Automation is one of the core practices in DevOps and helps streamline developme
 - Speeds up deployment process
 - Enhances productivity
 
-Shell scripting is widely used for automating repetitive system administration and deployment tasks. :contentReference[oaicite:1]{index=1}
+Shell scripting is widely used for automating repetitive system administration and deployment tasks. 
 
 ## Common Automation Tasks
 - Server setup
