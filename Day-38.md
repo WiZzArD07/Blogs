@@ -8,7 +8,6 @@
 - Ansible is widely used in DevOps for infrastructure automation
 
 ## What is Ansible
-
 - Ansible is an IT automation tool used for configuration management, application deployment, and orchestration
 - It automates repetitive tasks across multiple servers
 - Ansible communicates using SSH and does not require agents
@@ -16,7 +15,6 @@
 Ansible is an open-source automation platform used for configuration management, application deployment, and task automation.
 
 ## Why Ansible is Important
-
 - Eliminates manual server configuration
 - Reduces operational errors
 - Automates repetitive tasks
