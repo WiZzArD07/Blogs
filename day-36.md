@@ -8,7 +8,6 @@
 - It is a fundamental practice in modern DevOps and cloud computing
 
 ## What is Infrastructure as Code (IaC)
-
 - Infrastructure as Code is the process of defining and managing infrastructure through configuration files instead of manual processes
 - Infrastructure components such as servers, networks, databases, and storage can be provisioned automatically
 - IaC allows infrastructure to be treated like software
@@ -16,7 +15,6 @@
 Infrastructure as Code enables teams to provision and manage infrastructure through machine-readable definition files rather than manual configuration. 
 
 ## Why IaC is Important
-
 - Eliminates manual infrastructure setup
 - Reduces configuration drift
 - Improves deployment speed
@@ -24,7 +22,6 @@ Infrastructure as Code enables teams to provision and manage infrastructure thro
 - Supports automation and scalability
 
 ## Traditional Infrastructure vs IaC
-
 | Traditional Infrastructure | Infrastructure as Code |
 |---------------------------|------------------------|
 | Manual setup | Automated provisioning |
@@ -52,7 +49,6 @@ Infrastructure as Code enables teams to provision and manage infrastructure thro
 ### Declarative Approach
 - Defines the desired state of infrastructure
 - Tool determines how to achieve it
-
 Examples:
 - Terraform
 - Kubernetes YAML
@@ -60,7 +56,6 @@ Examples:
 ### Imperative Approach
 - Defines step-by-step instructions
 - User specifies how infrastructure should be created
-
 Examples:
 - Shell Scripts
 - AWS CLI Scripts
@@ -114,12 +109,10 @@ resource "aws_instance" "web" {
 A company needs identical environments for development, testing, and production:
 
 Without IaC:
-
  - Engineers manually configure each environment
  - Configurations become inconsistent
 
 With IaC:
-
  - Infrastructure is defined in code
  - Same configuration is deployed everywhere
  - Environments remain consistent and reproducible
