@@ -147,41 +147,32 @@ pipeline {
 ## Pipeline Stages
 
 ### Build
-
 * Compiles application code
 
 ### Test
-
 * Runs automated tests
 
 ### Deploy
-
 * Deploys application to target environment
 
 ## Common Jenkins Integrations
 
 ### GitHub
-
 * Source code management
 
 ### Docker
-
 * Containerized application deployment
 
 ### Kubernetes
-
 * Container orchestration
 
 ### AWS
-
 * Cloud deployments
 
 ### SonarQube
-
 * Code quality analysis
 
 ## Benefits of Jenkins
-
 * Automates CI/CD pipelines
 * Improves deployment speed
 * Supports infrastructure automation
@@ -189,9 +180,7 @@ pipeline {
 * Easy integration with DevOps tools
 
 ## Real Use Case
-
 A developer pushes code to GitHub:
-
 1. GitHub webhook triggers Jenkins
 2. Jenkins pulls latest code
 3. Build process starts
@@ -201,7 +190,6 @@ A developer pushes code to GitHub:
 This creates a fully automated CI/CD workflow.
 
 ## Jenkins vs GitHub Actions
-
 | Jenkins                                | GitHub Actions                    |
 | -------------------------------------- | --------------------------------- |
 | Self-hosted automation server          | GitHub-native automation          |
@@ -211,10 +199,8 @@ This creates a fully automated CI/CD workflow.
 | Suitable for complex enterprise setups | Excellent for GitHub repositories |
 
 ## Summary
-
 Jenkins is a powerful automation server that enables Continuous Integration and Continuous Delivery. It automates software development workflows, integrates with numerous DevOps tools, and helps teams deliver software faster and more reliably.
 
 ## My Learning Reflection
-
 Today I learned the fundamentals of Jenkins and how it enables CI/CD automation. I explored Jenkins architecture, pipelines, installation, and integrations that make it one of the most important tools in the DevOps ecosystem.
 
