@@ -134,7 +134,6 @@ Continuous Monitoring
 - Continuous monitoring requirements
 
 ## Real Use Case
-
 A company develops an online banking application.
 
 Without DevSecOps:
@@ -150,7 +149,6 @@ With DevSecOps:
 This results in faster releases with fewer vulnerabilities.
 
 ## DevSecOps Best Practices
-
 - Adopt Shift Left Security
 - Automate security testing
 - Scan container images regularly
@@ -161,9 +159,7 @@ This results in faster releases with fewer vulnerabilities.
 - Perform regular security audits
 
 ## Summary
-
 DevSecOps extends DevOps by integrating security into every phase of software development. Through automation, continuous monitoring, and shared responsibility, organizations can deliver secure applications faster while reducing security risks and maintaining compliance.
 
 ## My Learning Reflection
-
 Today I learned how DevSecOps integrates security into the DevOps lifecycle. I explored concepts like Shift Left Security, automated security testing, secure CI/CD pipelines, and common DevSecOps tools that help organizations build and deploy secure software efficiently.
